@@ -22,5 +22,5 @@ altura = Double.parseDouble(entrada.next());
 area = base * altura;
 System.out.println("El Area del rectangulo es:" + area);
 }
-    
+    //jeje
 }
